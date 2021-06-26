@@ -4,7 +4,7 @@
 <br />
 
 This is a fork from the excellent Openstage project by Rob Campbell: 
-link - <a href="https://github.com/raacampbell/openstage"></a>
+link - <a href="https://github.com/raacampbell/openstage">original project</a>
 
 ### Reason for Fork
 
