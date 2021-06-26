@@ -3,9 +3,20 @@
 <i>Open source microscope stage controller</i>
 <br />
 
+This is a fork from the excellent Openstage project by Rob Campbell: 
+link - <a href="https://github.com/raacampbell/openstage"></a>
 
+### Reason for Fork
+
+This version contains a number of significant changes to the original build described in the link above, quite specific to the microscope setup in which it is being used. Some are cosmetic and others functional, which alter both the performance as well as look and feel of the original. As such it is more appropriate to remain a fork for now.
+
+## Major changes
+
+
+
+
+### Readme description from original project
 <img src="OpenStageBuildNotes/images/openstage_cover.jpg" />
-
 
 OpenStage is a hardware and software solution for cheaply motorizing a microscope stage. The system is accurate enough even for demanding tasks, such as fine focus operations on a 2-photon microscope. The characteristics of the system and important build information are described in our <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0088977">PlosONE paper</a>. We achieved absolute unidirectional positioning accuracy and repeatability better than 0.1 μm in Z. Bidirectional positioning accuracy is in the range of 0.5 μm to 0.75 μm in Z. Positioning repeatability in X and Y is better than 1 μm. Minimum incremental motion is 0.04 μm in Z and 0.1 μm in X and Y. These values compare favorably to many commercial actuators costing several times as much as our system.
 
